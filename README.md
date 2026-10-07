@@ -114,13 +114,6 @@ The following business questions were answered:
 - Date Functions
 - Data Transformation
 
----
-
-# Future Improvements
-
-- Build an interactive Power BI dashboard.
-- Create Tableau visualizations.
-- Perform predictive analysis on layoff trends.
 
 ---
 
