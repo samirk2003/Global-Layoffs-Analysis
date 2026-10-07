@@ -117,6 +117,6 @@ The following business questions were answered:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Samir Tanweer 
